@@ -1,0 +1,7 @@
+Integrantes:
+  Simón Sobenes Gantes 202373098-k
+  Bastián Jiménez Sepúlveda 202373052-1
+  Bruno Navarrete Román 201821010-2
+
+Link Repositorio:
+  https://github.com/Hanomuri/Tarea1BDD
